@@ -14,7 +14,8 @@
     "bootstrap": "lerna bootstrap --use-workspaces",
     "dev": "start-storybook -p 5555",
     "coverage": "jest --coverage",
-    "unit": "jest"
+    "unit": "jest",
+    "lerna-changed": "lerna changed"
   },
   "devDependencies": {
     "@babel/cli": "^7.10.3",
