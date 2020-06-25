@@ -15,7 +15,8 @@
     "dev": "start-storybook -p 5555",
     "coverage": "jest --coverage",
     "unit": "jest",
-    "lerna-changed": "lerna changed"
+    "lerna-changed": "lerna changed",
+    "create-new-package": "lerna create"
   },
   "devDependencies": {
     "@babel/cli": "^7.10.3",
