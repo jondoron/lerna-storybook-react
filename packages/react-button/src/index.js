@@ -1,8 +1,8 @@
 import styled from 'styled-components';
 
 const Button = styled.button`
-    background: red;
-    color: #fff;
+    background: #EFEFEF;
+    color: ${props => props.color ? props.color : "green"};
     border-radius: 4px;
     cursor: pointer;
     font-size: 1rem;
