@@ -6,7 +6,6 @@
   "module": "src/index.js",
   "author": "jonathan.doron@gmail.com",
   "license": "MIT",
-  "private": true,
   "peerDependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
