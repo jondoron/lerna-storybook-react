@@ -1,5 +1,5 @@
 {
-  "name": "react-input",
+  "name": "@jondoron/react-input",
   "version": "0.0.3",
   "description": "Input UI component ",
   "main": "lib/index.js",
@@ -13,5 +13,6 @@
   "devDependencies": {
     "@storybook/react": "^5.3.19",
     "babel-loader": "^8.1.0"
-  }
+  },
+  "gitHead": "aafeecdffce4c1c4d370c2a982478a8eb5318074"
 }
