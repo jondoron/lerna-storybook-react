@@ -11,7 +11,7 @@
     "react-dom": "^16.13.1"
   },
   "devDependencies": {
-    "@storybook/react": "^5.3.19",
+    "@storybook/react": "^6.5.13",
     "babel-loader": "^8.1.0"
   },
   "gitHead": "aafeecdffce4c1c4d370c2a982478a8eb5318074"
